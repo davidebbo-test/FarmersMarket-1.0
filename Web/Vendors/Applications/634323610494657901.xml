@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>wrennaustin@yahoo.com</ContactEmail>
+  <ContactName>Mitchell Wrenn</ContactName>
+  <ContactPhone>(919) 269-9781</ContactPhone>
+  <Description>Wrenn's Farm &amp; Nursery , formerly known as Middlesex Produce Growers, was started by my father (Fletcher Wrenn ) in 1867. He started out with greenhouse tomatoes and kept on adding different crops until today we grow 19 different produce crops. We grow and sell only top quality produce. If it does not meet our standards we do not sell it. We  eat the crops that we grow, so we use as few pesticides as possible. </Description>
+  <EmergencyContact>Mitchell Wrenn</EmergencyContact>
+  <ExtensionAgent>Mike Wilder</ExtensionAgent>
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>5078 Brantley Rd</Address>
+    <City>Zebulon</City>
+    <State>NC</State>
+    <ZipCode>27597</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Wrenn's Farm &amp; Nursery</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Mitchell W. Wrenn</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>100</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Comerical fertlizer 10-10-10, 10-20-20 and liquid nitrogen which is injeceted through the drip tape under the row. </FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Cultivation, is the main weed control, but we do use some pesticides if we have a lot of problems, but this is only a last resort.</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Grennhouse Tomatoes</string>
+    <string>Grennhouse Cucumbers</string>
+    <string>Strawberries</string>
+    <string>Cabbage</string>
+    <string>Cauliflower</string>
+    <string>Broccoli</string>
+    <string>Sweet Onions</string>
+    <string>Lettuce</string>
+    <string>Potatoes</string>
+    <string>Squash</string>
+    <string>Sweet Corn</string>
+    <string>Cantaloupes</string>
+    <string>Butter Beans</string>
+    <string>Peas</string>
+    <string>Okra</string>
+    <string>Field Tomatoes</string>
+    <string>Cucumbers</string>
+    <string>Eggplant</string>
+    <string>Peppers</string>
+    <string>Watermellons</string>
+    <string>Collards</string>
+    <string>Sweet Potatoes</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Wrenns Farm &amp; Nursery market</string>
+    <string>Rockmount Farmers Market</string>
+    <string>Wake Forest Farmers Market</string>
+    <string>North Raleigh Farmers Market</string>
+  </Venues>
+  <WebSiteUri>http://www.wrennsfarm.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

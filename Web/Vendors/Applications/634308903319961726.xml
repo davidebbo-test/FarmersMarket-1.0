@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>broberts1@nc.rr.com</ContactEmail>
+  <ContactName>Bruce Roberts</ContactName>
+  <ContactPhone>(919) 599-6063</ContactPhone>
+  <Description>We are a fifth generation farm family that produces high quality meats and ornamentals. Our production philosophy is to meld the best methods from traditional small family farming with the best offerings of modern agricultural science. We have a personal relationship with everything we produce. </Description>
+  <EmergencyContact>Bruce and Elizabeth Roberts</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>2210 Richard Ln</Address>
+    <City>Hillsborough</City>
+    <State>NC</State>
+    <ZipCode>27278</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <Name>Little River Ranch</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Bruce and Elizabeth Roberts</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Chemical fertilizers are used for ornamental (Chrysanthemum) production</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Weeds are controlled with ground covers. Fungal pests are controlled with antifungal chemicals and pesticide sprays are used to control insect pests in ornamental (Chrysanthemum) production.</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>
+      Pasture-raised Lamb
+      Pasture-raised Heritage Turkeys
+      Traditional Pork
+      Pasture-raised Rabbit
+      Pond-raised Duck
+      Fall Chrysanthemums
+    </string>
+  </Products>
+  <ProductTypes>Produce Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>8</AcresInProduction>
+    <AnimalBreeds>
+      Katahdin Dorpper Cross Sheep
+      Bourbon Red Heritage Turkeys
+      Farmer’s Hybrid-style Swine
+      Pekin and Rouen Ducks
+      New Zealand Cross Rabbits
+    </AnimalBreeds>
+    <AnimalShelter>Turkeys are raised first in an enclosed brooder house and then placed in mobile pasture units that are moved every day to new pasture. These units provide shelter from the elements and predators for the turkeys. Rabbits will also be raised in mobile pasture units. Water fowl will be started in an enclosed brooder house and then placed in a pasture with access to both a pond and a barn for shelter. All other animals will always have access to shelter at will. The shelters provide protection from sun, rain, and wind. </AnimalShelter>
+    <DiseasesAndParasites>Disease control is achieved primarily through prevention. Animals are vaccinated against major diseases according to species and are maintained in a healthy hygenic environment with good nutrition. Parasites are controlled through rotational cross species grazing and the careful use of chemical parasiticides as prescribed by our veterinarian. </DiseasesAndParasites>
+    <FeedingPractices>All animals other than the swine and water fowl will get most of their nutrients from pasture with some supplemental grain and minerals. Water fowl will be foraging on pasture and a 1 acre farm pond and will receive a supplemental nutritionally balanced ration. Swine will be able to forage and graze but will also have a complete nutritionally balanced ration available. All animals will have continuous access to clean water and shelter.</FeedingPractices>
+    <HormonesAntiBiotics>No animals on our farm are treated with hormones. Antibiotics are only administered under the guidance of a veterinarian and no animal that is treated with antibiotics is sold for human consumption.</HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>We use Matkins Meats and Chaudhry Halal Meats</Processor>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>
+      Cary Downtown Farmers Market
+      North Raleigh Farmers Market
+      On Premises
+    </string>
+  </Venues>
+  <WebSiteUri>http://littleriverranchnc.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>6</YearsSelling>
+</VendorApplication>

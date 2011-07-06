@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients />
+    <MaterialsUsed>Purchased ingredients for baking</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>Other</BusinessStructure>
+  <Description>Familiy-owned business, Farm and Baked goods, have participated in area markets for 11 years.</Description>
+  <EmergencyContact />
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>false</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>1330 Green Hill Rd</Address>
+    <City>Franklinton</City>
+    <State>NC</State>
+    <ZipCode>27525</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+  </MarketDates>
+  <Name>Edna Lee's Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Fred Shaw, Lonna Shaw, Sue Doherty</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>10</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType />
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Fire</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>SEE ATTATCHED LIST</string>
+  </Products>
+  <ProductTypes>Produce Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Durham Farmers Market</string>
+    <string>Wake Forest Farmers Market</string>
+    <string>North Raleigh Farmers Market</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>0</YearsSelling>
+</VendorApplication>

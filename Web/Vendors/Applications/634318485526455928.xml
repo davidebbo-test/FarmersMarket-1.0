@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>carmella@melinaskitchen.com</ContactEmail>
+  <ContactName>Carmella Alvaro</ContactName>
+  <ContactPhone>(919) 429-9850</ContactPhone>
+  <Description>Melina's Italian Kitchen offers handmade fresh pasta, ravioli, sauces and baked pastas made with local ingredients. </Description>
+  <EmergencyContact>Rocco Alvaro (540) 891-9159</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634318485526299681.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>PO Box 17421</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27619-7421</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>Melina's Italian Kitchen</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Carmella Alvaro</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>225 East Holding Ave</Address>
+    <City>Wake Forest</City>
+    <State>NC</State>
+    <ZipCode>27587</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Fresh Pasta</string>
+    <string>Baked Pastas</string>
+    <string>Lasagna</string>
+    <string>Ravioli</string>
+    <string>Sauces</string>
+    <string>Prepared Meals</string>
+  </Products>
+  <ProductTypes>Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <AnimalBreeds>n/a</AnimalBreeds>
+    <AnimalShelter>n/a</AnimalShelter>
+    <DiseasesAndParasites>n/a</DiseasesAndParasites>
+    <FeedingPractices>n/a</FeedingPractices>
+    <HormonesAntiBiotics>n/a</HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <Processor />
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Wake Forest Farmer's Market</string>
+  </Venues>
+  <WebSiteUri>http://www.melinaskitchen.com/</WebSiteUri>
+  <YearsPracticing>0</YearsPracticing>
+  <YearsSelling>0</YearsSelling>
+</VendorApplication>

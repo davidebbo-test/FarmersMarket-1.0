@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>jason@bickettmarket.com</ContactEmail>
+  <ContactName>Jason</ContactName>
+  <ContactPhone>(919) 291-3286</ContactPhone>
+  <Description>We are a local commercial fishing company that sources "off the boat" fresh seafood from Southport, NC and surrounding areas.  Our truck brings small boat catches to the farmers market each week including: flounder, yellowfin/big eye tuna, snapper, trigger, grouper, Wanchese boat scallops, mackerel, shrimp, and many other species in season. We are always fresh and never frozen (except for shrimp in winter when they are out of season only). </Description>
+  <EmergencyContact>Mike Harrigan, 625-3963</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634317206763635181.pdf</LogoImagePath>
+  <MailingAddress>
+    <Address>219 Bickett Blvd</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27608</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Southport Seafood Co.</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Jason Stegall</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>All types of fresh NC seafood</string>
+  </Products>
+  <ProductTypes>Seafood</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions>
+    <AdditionalInfo>We catch shrimp, mackerel and other bottom fish with recreational commercial permit. We source from fisherman friends in the Southport/Southern Brunswick Co waters.</AdditionalInfo>
+    <Boats>1 shrimp/fishing boat in Shallotte, NC</Boats>
+    <DockLocation>Lockwood Folly River</DockLocation>
+    <Source>Southport Seafood Co.</Source>
+  </SeafoodQuestions>
+  <Venues>
+    <string>S Estes Farmers Market</string>
+    <string>Midtown Farmers Market</string>
+    <string>North Raleigh Farmers Market</string>
+    <string>Downtown Raleigh Farmers Market</string>
+  </Venues>
+  <WebSiteUri>http://www.southportseafoodcompany.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>4</YearsSelling>
+</VendorApplication>

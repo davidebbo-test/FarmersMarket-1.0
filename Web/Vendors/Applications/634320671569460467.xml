@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <Description />
+  <EmergencyContact>Daniel Barbour</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>3440 Neuma Dr</Address>
+    <City>Zebulon</City>
+    <State>NC</State>
+    <ZipCode>27597</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>East Wake Apiary</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Ricky and Pam Barbour</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>3440 Neuma Dr</Address>
+    <City>Zebulon</City>
+    <State>NC</State>
+    <ZipCode>27597</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Honey</string>
+    <string>Eggs</string>
+  </Products>
+  <ProductTypes>Other</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>On Premise</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>5</YearsSelling>
+</VendorApplication>

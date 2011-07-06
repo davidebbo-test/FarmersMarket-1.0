@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>local ingredients included butters and cheeses from Chapel Hill Creamery, produce and eggs from Wild Onion Farms, Fruits from Smith's Nursery and vegetables and fruits from many other local vendors.</LocalIngredients>
+    <MaterialsUsed>I use as much fresh, local ingredients such as fruits, vegetables, cheese, eggs and butter. I also use flours and other ingredients milled in North Carolina.</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>calaway.tammy@gmail.com</ContactEmail>
+  <ContactName>Tammy Calaway</ContactName>
+  <ContactPhone>919-259-0141</ContactPhone>
+  <Description>Sweet T offers a beautiful selection of artisan baked goods and gourmet cupcakes and whoopie pies. We specialize in fruit pies and quiche as well. Gluten free and vegan selections are available weekly and a greater selection is available for special order. </Description>
+  <EmergencyContact>Lauren Williamson, (919) 650-3095</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634316370952253307.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>312 Rose Valley Woods Dr</Address>
+    <City>Cary</City>
+    <State>NC</State>
+    <ZipCode>27513</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>Sweet T, a cakery</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Tammy Calaway</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Cupcakes</string>
+    <string>Cookies</string>
+    <string>Pies</string>
+    <string>Quiche</string>
+    <string>Cakes</string>
+    <string>Tarts</string>
+  </Products>
+  <ProductTypes>Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Downtown Raleigh Farmers Market</string>
+    <string>Moore Square Farmer's Market</string>
+    <string>Seasonal Festivals</string>
+    <string>Raleigh City Events</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>4</YearsSelling>
+</VendorApplication>

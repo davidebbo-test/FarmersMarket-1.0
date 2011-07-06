@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>Local honey is used in our breads.  Our water is sourced locally in specially filtered before our baking process.  Some seasonal fruits are used from local growers especially apple breads.</LocalIngredients>
+    <MaterialsUsed>Fresh milled whole wheat flour.  The wheat is procured from family owned farms in Montana.  Local Honey, natural sweeteners, fresh and frozen fruits. No artificial ingredients.</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>tpwilliams@greatharvest.com</ContactEmail>
+  <ContactName>Paige Williams</ContactName>
+  <ContactPhone>(919) 523-0424</ContactPhone>
+  <Description>
+    Producer of hand crafted breads and baked goods made from our freshly milled wheat flour, sourced from family owned farms.  Our honey is locally produced by Heidi's honey in Winston Salem.
+    Our loaves our hand kneaded and prepared each day.  All day old bread is given to ministries or interfaith food shuttle.
+  </Description>
+  <EmergencyContact>Tom Williams</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634328777913282209.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>1220 NW Maynard Rd</Address>
+    <City>Cary</City>
+    <State>NC</State>
+    <ZipCode>27513</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>Great Harvest Bread Co.</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Paige and Tom Williams</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>1220 NW Maynard Rd</Address>
+    <City>Cary</City>
+    <State>NC</State>
+    <ZipCode>27513</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Savory Hand-crafted Breads</string>
+    <string>All Natural Muffins</string>
+    <string>Scones</string>
+    <string>Cookies</string>
+    <string>Breakfast Cereals</string>
+    <string>Cookie Mixes</string>
+    <string>Pancake Mixes</string>
+  </Products>
+  <ProductTypes>Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>On Premise</string>
+    <string>Coffee Shops</string>
+    <string>Restaurants</string>
+  </Venues>
+  <WebSiteUri>http://www.greatharvestcary.com/</WebSiteUri>
+  <YearsPracticing>4</YearsPracticing>
+  <YearsSelling>4</YearsSelling>
+</VendorApplication>

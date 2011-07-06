@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>Other</BusinessStructure>
+  <ContactEmail>ballasl@bellsouth.net</ContactEmail>
+  <ContactName>Larry Ballas</ContactName>
+  <ContactPhone>(919) 362-0094</ContactPhone>
+  <Description>I grow and sell heirloom tomatoes and other veggie plants from seeds I purchase from different parts of the world. I grow and sell hot chili plants from seeds I purchase from all over the world. I also sell the hot chili peppers   I grow and sell some select basil plants such as Italian basil, thai basil and tulsi basil as well as other unique herbs.</Description>
+  <EmergencyContact />
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>139 indian Creek Ln</Address>
+    <City>Apex</City>
+    <State>NC</State>
+    <ZipCode>27523</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Larry's Heirloom Gardens</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Larry Ballas</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Store-bought, fish emulsion</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>pull them out by hand</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>139 indian Creek Ln</Address>
+    <City>Apex</City>
+    <State>NC</State>
+    <ZipCode>27523</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Heirloom Tomatoes</string>
+    <string>Hot Chili Peppers</string>
+    <string>Basil Plants</string>
+    <string>Lemon Grass</string>
+    <string>Herbs</string>
+    <string>Italian Zucchini</string>
+    <string>Eggplant</string>
+    <string>Unique Plants</string>
+    <string>Hot Chili Peppers</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Downtown Cary Farmers Market</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

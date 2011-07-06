@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>cclayton3@nc.rr.com</ContactEmail>
+  <ContactName>Andy Clayton</ContactName>
+  <ContactPhone>919-851-0003</ContactPhone>
+  <Description>Clayton Orchard is a family-owned farm located in Montgomery County.  Our primary product is peaches.  We also grow plums, watermelons, muscadine grapes, and various vegetables such as corn, tomatoes, onions, green beans, and potatoes.</Description>
+  <EmergencyContact>Anne Clayton</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>107 Windy Rush Ln</Address>
+    <City>Cary</City>
+    <State>NC</State>
+    <ZipCode>27518</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+  </MarketDates>
+  <Name>Clayton Orchard</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Andy Clayton</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>25</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>chemical</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>true</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Herbicdes, Insecticides, and Fungicides as needed</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>289 Research Farm Rd</Address>
+    <City>Candor</City>
+    <State>NC</State>
+    <ZipCode>27229</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Peaches</string>
+    <string>Plums</string>
+    <string>Watermelons</string>
+    <string>Corn</string>
+    <string>Muscadine Grapes</string>
+    <string>Tomatoes</string>
+    <string>Onions</string>
+    <string>Potatoes</string>
+    <string>Green Beans</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Local Fruit Stands near Norman NC</string>
+    <string>On Premise</string>
+    <string>CSAs (RTI International and in conjunction with Harland's Creek Farm)</string>
+  </Venues>
+  <WebSiteUri>http://www.claytonorchard.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

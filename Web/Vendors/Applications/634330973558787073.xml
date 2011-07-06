@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>All our flour is locally milled at Lindley Mills. Additionally, we try to incorporate seasonal ingredients in our muffins and scones. Some examples include strawberries, zuchini, blueberries, sweet potatoes, pumpkin</LocalIngredients>
+    <MaterialsUsed>flour, sugar, spices, extra virgin olive oil, fresh seasonal ingredients when available</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>accidentalbaker@yahoo.com</ContactEmail>
+  <ContactName>Kevin Mason</ContactName>
+  <ContactPhone>(919) 732-6777</ContactPhone>
+  <Description>We are best known for our flatbread crackers which we sell in over 70 retail stores from NY to Florida. We also do a variety of scones, vegan muffins and other sweets. This year we are also making pizza dough balls. We use local ingredients when possible</Description>
+  <EmergencyContact />
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>128 Bonaparte Dr</Address>
+    <City>Hillsborough</City>
+    <State>NC</State>
+    <ZipCode>27278</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>The Accidental Baker</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Jennie McCray Kevin Mason</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>169 Boone Sq St</Address>
+    <City>Hillsborough</City>
+    <State>NC</State>
+    <ZipCode>27278</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Flatbread Crackers</string>
+    <string>Scones</string>
+    <string>Muffins</string>
+    <string>Pizza Dough Balls</string>
+    <string>Brownies</string>
+    <string>Cookies</string>
+  </Products>
+  <ProductTypes>Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Eno River Farmers Market</string>
+    <string>On Premise</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>5</YearsPracticing>
+  <YearsSelling>5</YearsSelling>
+</VendorApplication>

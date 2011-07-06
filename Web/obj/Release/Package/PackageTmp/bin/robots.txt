@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /App_Themes
+Disallow: /Scripts
+Disallow: /Properties
+Disallow: /Bin
+Disallow: /Controls
+Allow: /
+Disallow: /Images
+

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>Corporation</BusinessStructure>
+  <ContactEmail>smithsnursery@aol.com</ContactEmail>
+  <ContactName>Sarah, Myron or Chris Smith, Heather R.</ContactName>
+  <ContactPhone>(919) 934-1700</ContactPhone>
+  <Description>Smith's Nursery is a family owned and operated wholesale nursery and produce farm operating in Johnston County, NC for over 30 years. We have a NC Certified Roadside Farm Market and Pick-Your-Own Berry Farm specializing in strawberries, blueberries, blackberries, and pumpkins. Smith's Nursery offers over 13 acres of container grown plants including shrubs, trees, and perennials</Description>
+  <EmergencyContact>Myron, (919) 369-7912, Sarah: (919) 669-1817</EmergencyContact>
+  <ExtensionAgent>Amie Newsome, (919) 989-5380</ExtensionAgent>
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634332711574510050.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>443 Sanders Rd</Address>
+    <City>Benson</City>
+    <State>NC</State>
+    <ZipCode>27504</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>Smith's Nursery, Inc</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Myron and Sarah Smiths</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>25</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>primarily synthetic (both natural and artificial)</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>true</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Extensive Integrated Pest Management systems (IPM), blueberries and blackberries are pesticide Free</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Strawberries</string>
+    <string>Blueberries</string>
+    <string>Blackberries</string>
+    <string>Melons</string>
+    <string>Asparagus</string>
+    <string>Spinach</string>
+    <string>Squash</string>
+    <string>Zucchini</string>
+    <string>Cabbage</string>
+    <string>Onions</string>
+    <string>Cucumbers</string>
+    <string>Peppers</string>
+    <string>Greens</string>
+    <string>Bedding Plants</string>
+    <string>Hanging Baskets</string>
+    <string>Landscape Plants</string>
+    <string>Perennials</string>
+    <string>Herb Plants</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>NC State Farmers Market</string>
+    <string>Raleigh Downtown Farmers Market</string>
+    <string>Midtown Farmers Market</string>
+    <string>Five Points Farmers Market</string>
+    <string>Clayton Farmers Market</string>
+  </Venues>
+  <WebSiteUri>http://www.upickberries.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

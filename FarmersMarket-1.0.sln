@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{682E3027-FB14-420F-A82B-438A445E0593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Tests", "Web.Tests\Web.Tests.csproj", "{4BA37178-20A2-44A5-8E53-52A8E77AE9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{3D5EA947-B179-4BBD-8830-D9A78730A3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantContact", "ConstantContact\ConstantContact.csproj", "{8293E19E-2661-491E-8216-1E7EAE430FF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{1238194F-1227-492D-BDAF-D174B8A8EE0A}"
+	ProjectSection(SolutionItems) = preProject
+		References\Recaptcha.dll = References\Recaptcha.dll
+		References\Recaptcha.pdb = References\Recaptcha.pdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.jflamb.com:8080/tfs/projects
+		SccProjectUniqueName0 = ConstantContact\\ConstantContact.csproj
+		SccProjectName0 = ConstantContact
+		SccLocalPath0 = ConstantContact
+		SccProjectUniqueName1 = Helpers\\Helpers.csproj
+		SccProjectName1 = Helpers
+		SccLocalPath1 = Helpers
+		SccProjectUniqueName2 = Web.Tests\\Web.Tests.csproj
+		SccProjectName2 = Web.Tests
+		SccLocalPath2 = Web.Tests
+		SccProjectUniqueName3 = Web\\Web.csproj
+		SccProjectName3 = Web
+		SccLocalPath3 = Web
+		SccLocalPath4 = .
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FarmersMarket1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682E3027-FB14-420F-A82B-438A445E0593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682E3027-FB14-420F-A82B-438A445E0593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682E3027-FB14-420F-A82B-438A445E0593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682E3027-FB14-420F-A82B-438A445E0593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA37178-20A2-44A5-8E53-52A8E77AE9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA37178-20A2-44A5-8E53-52A8E77AE9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA37178-20A2-44A5-8E53-52A8E77AE9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA37178-20A2-44A5-8E53-52A8E77AE9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5EA947-B179-4BBD-8830-D9A78730A3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5EA947-B179-4BBD-8830-D9A78730A3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5EA947-B179-4BBD-8830-D9A78730A3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5EA947-B179-4BBD-8830-D9A78730A3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8293E19E-2661-491E-8216-1E7EAE430FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8293E19E-2661-491E-8216-1E7EAE430FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8293E19E-2661-491E-8216-1E7EAE430FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8293E19E-2661-491E-8216-1E7EAE430FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

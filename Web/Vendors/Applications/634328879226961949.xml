@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>rjones@rtpfarmfresh.com</ContactEmail>
+  <ContactName>Robert Jones</ContactName>
+  <ContactPhone>(919) 673-2663</ContactPhone>
+  <Description />
+  <EmergencyContact>Vovanti Jones, (919) 824-5978</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>303 Pine Shoal Dr</Address>
+    <City>Snow Hill, NC</City>
+    <State>NC</State>
+    <ZipCode>28580</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>Jones Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Robert Jones</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>6</AcresInProduction>
+    <CsaDropOff>true</CsaDropOff>
+    <FertilizerType>Chicken manure, green mature, organic fertilizers</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>true</OfferCsa>
+    <OwnLand>false</OwnLand>
+    <PestControl>Black Plastic, weed cloth, cultivating, hoeing</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>Hwy 91</Address>
+    <City>Snow Hill</City>
+    <State>NC</State>
+    <ZipCode>28580</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Cucumbers</string>
+    <string>Potatoes</string>
+    <string>Squash</string>
+    <string>Greens</string>
+    <string>Strawberries</string>
+    <string>Watermelons</string>
+    <string>Melons</string>
+    <string>Cantaloupes</string>
+    <string>Carrots</string>
+    <string>Peanuts</string>
+    <string>Wweet Corn</string>
+    <string>Tomatoes</string>
+    <string>Eggplants</string>
+    <string>Pears</string>
+    <string>Plums</string>
+    <string>Blueberries</string>
+    <string>Onions</string>
+    <string>Hierloom Vegetables</string>
+    <string>Beans</string>
+    <string>Peas</string>
+    <string>Beets</string>
+    <string>Okra</string>
+    <string>Peppers</string>
+    <string>Radish</string>
+    <string>Squash</string>
+    <string>Blackberries</string>
+    <string>Blueberries</string>
+    <string>Landscape Plants</string>
+    <string>Turnips</string>
+    <string>Rutabagas</string>
+    <string>Asparagus</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Duke Farmers Market</string>
+    <string>North Hills</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>4</YearsPracticing>
+  <YearsSelling>4</YearsSelling>
+</VendorApplication>

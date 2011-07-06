@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>schroederstock@yahoo.com</ContactEmail>
+  <ContactName>Wilma Schroeder</ContactName>
+  <ContactPhone>(415) 509-1652</ContactPhone>
+  <Description>Production of raw fruits and vegetables, herbs, flowers, and seedlings/bedding plants. First year in operation (2011) and may grow to include value-added products and/or crafts.</Description>
+  <EmergencyContact>Jennifer Gibbs</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>1358 Jessie Bridges Rd</Address>
+    <City>Siler City</City>
+    <State>NC</State>
+    <ZipCode>27344</ZipCode>
+  </MailingAddress>
+  <MarketDates />
+  <MarketDays>Tuesday</MarketDays>
+  <Name>Schroederstock</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Wilma Schroeder</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>organic compost, organic soil amendments as needed</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>rotation, companion planting, natural (organic) methods</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Raw Fruits and Vegetables</string>
+    <string>Herbs</string>
+    <string>Cut Flowers</string>
+    <string>Seedlings</string>
+    <string>Bedding Plants</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>4</YearsPracticing>
+  <YearsSelling>0</YearsSelling>
+</VendorApplication>

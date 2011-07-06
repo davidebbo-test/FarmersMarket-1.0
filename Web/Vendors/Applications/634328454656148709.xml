@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>shields.ben@gmail.com</ContactEmail>
+  <ContactName>Benjamin Shields</ContactName>
+  <ContactPhone>919-800-8898</ContactPhone>
+  <Description>Ben's Produce offers vegetables, strawberries &amp; flowers of the highest quality and taste in the Triangle from our farm in Clayton, NC. Our mission is to strive for healthier people, community, agriculture and planet by growing and sharing the best tasting food we can. Our farming practices may surpass organic guidelines but we choose not to be certified because we are confident the quality and taste of our produce as well as our direct relationship with you speaks to our commitment to healthy food and holistic agriculture. 2011 will be our second year farming independently as Ben's Produce, though we have been farming with family and friends for many years.</Description>
+  <EmergencyContact>Beth Browne 919-818-9169</EmergencyContact>
+  <ExtensionAgent>Aime Newsome</ExtensionAgent>
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634328454655992462.JPG</LogoImagePath>
+  <MailingAddress>
+    <Address>1000 McLemore Rd</Address>
+    <City>Clayton</City>
+    <State>NC</State>
+    <ZipCode>27520</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Ben's Produce</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Benjamin Shields, Patricia Parker</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Compost, Cover Crops</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>true</OfferCsa>
+    <OwnLand>false</OwnLand>
+    <PestControl>Through soil health primarily, then physical barriers and NOP approved pesticides as last resort.</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Arugula</string>
+    <string>Bean</string>
+    <string>Beets</string>
+    <string>Bok Choi</string>
+    <string>Broccoli Raab</string>
+    <string>Broccoli</string>
+    <string>Cabbage</string>
+    <string>Carrots</string>
+    <string>Chard</string>
+    <string>Cress</string>
+    <string>Cucumber</string>
+    <string>Dandelion</string>
+    <string>Eggplant</string>
+    <string>Endive</string>
+    <string>Fennel</string>
+    <string>Field Peas</string>
+    <string>Herbs</string>
+    <string>Kale</string>
+    <string>Kohlrabi</string>
+    <string>Leeks</string>
+    <string>Lettuce</string>
+    <string>Melons</string>
+    <string>Mesclun</string>
+    <string>Mizuna</string>
+    <string>Mustard</string>
+    <string>Napa Cabbage</string>
+    <string>Okra</string>
+    <string>Onions</string>
+    <string>Peas</string>
+    <string>Potatoes</string>
+    <string>Radicchio</string>
+    <string>Radish</string>
+    <string>Scallions</string>
+    <string>Peppers</string>
+    <string>Spinach</string>
+    <string>Squash Summer</string>
+    <string>Squash Winter</string>
+    <string>Sweet Potatoes</string>
+    <string>Tatsoi</string>
+    <string>Tomatillo</string>
+    <string>Tomatoes</string>
+    <string>Turnips</string>
+    <string>Zucchini</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Angelina's Kitchen</string>
+    <string>Bickett Market</string>
+    <string>Five Points CSA</string>
+    <string>Market Restaurant</string>
+  </Venues>
+  <WebSiteUri>http://www.bensproduce.blogspot.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>2</YearsSelling>
+</VendorApplication>

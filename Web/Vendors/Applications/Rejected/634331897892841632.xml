@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>Our own chevre, whey, eggs, strawberries as available, locally milled organic flour.</LocalIngredients>
+    <MaterialsUsed>For our bread, we use locally milled organic flours and our own whey, yeast, salt, honey, molasses. For our chevre-cakes, we use our own chevre and eggs, a cookie (or nut, for gluten-free orders) crust, sugar, and high-end ingredients such as Callebaut chocolate and hand-grated fresh lemon zest. </MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>kat@prodigalfarm.com</ContactEmail>
+  <ContactName>Kathryn Spann</ContactName>
+  <ContactPhone>(919) 477-5653</ContactPhone>
+  <Description>
+    We create handcrafted farmstead cheeses, breads and farm-crafted specialty items on our 97-acre farm in rural Rougemont, North Carolina. Our family farm is centered around our pastured Animal Welfare Approved goat herd. Ours is the only Animal Welfare Approved dairy east of Winston-Salem – we’re serious about the health and happiness of our all-pastured animals, and about producing exceptional artisan cheeses, breads, and cheesecakes from our cheese.
+    We move our goats to fresh pasture every 4-5 days. They are never confined to barns; instead, they have portable sheds on skids that move with them. We breed for later kidding than conventional goat dairies do, so the babies are born on pasture when the weather gets warm. We use no subtherapeutic antibiotics or hormones on our animals.
+    We make a variety of fresh and aged goat cheeses, with a particular interest in “bloomy rind” styles of cheese that originate in the Loire Valley of France. Time and again, we hear that folks who don’t like goat cheese like ours, because it’s not “goaty.”  We also make “chevre-cakes” using our cheese. Our chocolate cheesecake is truffle-intense, with a very high end French chocolate; our lemon cheesecake uses fresh lemon zest. When we offer other flavors, we approach these with a similar level of craft. We can make these cheesecakes to order, with a gluten-free crust if you wish. Finally, we make a daily loaf style of bread, using locally milled organic wheat and unbleached flour and whey from our cheesemaking, which is very high protein and makes for an exceptionally satisfying accompaniment to your breakfast, soup or dinner.
+  </Description>
+  <EmergencyContact>Vanessa Spann, (919) 616-3482</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>4720 Bahama Rd</Address>
+    <City>Rougemont</City>
+    <State>NC</State>
+    <ZipCode>27572</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Prodigal Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Dave Krabbe &amp; Kathryn Spann</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>compost only</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Mulching; hand-weeding; rototiller; beer traps for slugs; hand-picking insects; and beneficial co-plantings</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Fresh and Aged Pasteurized Goat Milk Cheeses (including various flavored chevres, marinated feta, and loire valley-style bloomy rind cheeses)</string>
+    <string>Whole wheat bread made from organic flour and whey from our cheesemaking</string>
+    <string>Cheesecakes made with our chevre</string>
+    <string>Meat from our Animal Welfare Approved goat herd</string>
+    <string>a few eggs</string>
+    <string>a few items of produce such as jerusalem artichokes and greens</string>
+  </Products>
+  <ProductTypes>Produce Protein Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>45</AcresInProduction>
+    <AnimalBreeds>We have a herd of mixed breed dairy goats, mostly Nubian and Alpine and crosses thereof</AnimalBreeds>
+    <AnimalShelter>Because we are all-pastured, we have developed innovative housing solutions for our animals. We started with sheds on skids, which we drag from paddock to paddock with the tractor. As our herd grew, we added a schoolbus, refitted for the purpose by removing the seats and adding ramps, among other refinements. As we move into the warmer months, we'll be adding awnings on either side of the bus for supplemental shade. We also have a separate infirmary and birthing area, and a separate area for kid care in the first couple of months.</AnimalShelter>
+    <DiseasesAndParasites>We vaccinate for major diseases. When a neighboring goat dairy experienced a rabies outbreak, we vaccinated for that, too, within 24 hours. Our rotational grazing and inclusion of browse enables us to minimize our reliance on chemical wormers, but we do worm 3-4 times a year, based on individualized determinations of each animals' needs at the time. We have a close relationship with our vet, who is a specialist in small ruminants and on the faculty of NCSU veterinary hospital.</DiseasesAndParasites>
+    <FeedingPractices>We practice managed rotational grazing, moving our goats at least once a week to a fresh area of pasture/woodland perimeter browse. We supplement with an 18% all vegetarian dairy goat feed, and in winter provide premium alfalfa hay to supplement the available forage. We also provide kelp, goat mineral and baking soda to the goats on a free-choice basis.</FeedingPractices>
+    <HormonesAntiBiotics>We use therapeutic antibiotics when necessary (very infrequently) to deal with coccidia (sulmet) or mastitis, as prescribed by our vet.</HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>Chaudry Halal Meats</Processor>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Midtown Market at North Hills</string>
+    <string>Hillsborough Farmers Market</string>
+    <string>On Premise</string>
+  </Venues>
+  <WebSiteUri>http://www.prodigalfarm.com/</WebSiteUri>
+  <YearsPracticing>3</YearsPracticing>
+  <YearsSelling>1</YearsSelling>
+</VendorApplication>

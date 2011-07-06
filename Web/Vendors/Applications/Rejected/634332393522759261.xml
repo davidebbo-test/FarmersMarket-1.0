@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>southchestnut_farm@att.net</ContactEmail>
+  <ContactName>Roger Harris</ContactName>
+  <ContactPhone>(919) 539-7468</ContactPhone>
+  <Description>South Chestnut Farm is a small family owned sustainable farm practicing rotational grazing with our Dexter/Red Angus cattle and pastured layers. Our beef is certified grassfed by the American Grassfed Association and our animals are certified by Animal Welfare Approved. We use no pesticides or synthetic fertilizers on our pasture or vegetable crops. Our goal is to produce high quality, healthy food while placing great emphasis on the health of our environment, natural resources and the welfare of our animals. </Description>
+  <EmergencyContact>Michelle Harris, (919) 395-2570</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>4613 Gamelyn Walk</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27612</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Tuesday Saturday</MarketDays>
+  <Name>South Chestnut Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Roger L Harris</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>2</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>OMRI approved 4-3-3 liquid fish emulsion </FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Mulch, beneficial insects, rotational grazing</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>375 Wade Harris Rd</Address>
+    <City>Pittsboro</City>
+    <State>NC</State>
+    <ZipCode>27312</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Grassfed beef is our first enterprise</string>
+    <string>We are introducing pastured eggs and vegetables this year along with the beef.</string>
+  </Products>
+  <ProductTypes>Produce Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>40</AcresInProduction>
+    <AnimalBreeds>
+      Dexter and Dexter/Red Angus cattle,
+      Barred Rock and Rhode Island Red Layers
+    </AnimalBreeds>
+    <AnimalShelter>
+      Our cattle are always provided available shade in each paddock.
+      The layers are on pasture during the day but are housed in a mobile chicken house during the night.
+    </AnimalShelter>
+    <DiseasesAndParasites>By practicing rotational grazing with proper stocking levels, we strive to keep healthy stands of grass and reduce the chance of animals eating too close to the ground where most parasites exist. We also use diatomaceous earth mixed with kelp mineral as one method of "organic" internal parasite control. If suggested by a veterinarian as a last resort, we have and will use Ivermectin drench on our cows. </DiseasesAndParasites>
+    <FeedingPractices>
+      Our cattle are 100% grassfed in a rotational grazing scheme, (they never consume grain). OMRI approved kelp mineral is always available as free choice to the cattle.
+      Our chickens are on the same pasture as our cattle during the day and are part of the pasture rotation; all chicken feed is vegetable based.
+    </FeedingPractices>
+    <HormonesAntiBiotics>No hormones or steroids are used. We only administer antibiotics to animals after veterinarian suggestions. Any animal receiving antibiotics is removed from our "grassfed" herd and not sold as such.</HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>Chaudhry Halal Meat Co Inc</Processor>
+    <SoilTested>true</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>We have direct marketed our beef to various individuals in the Raleigh area during the last 15 months.</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>5</YearsPracticing>
+  <YearsSelling>1</YearsSelling>
+</VendorApplication>

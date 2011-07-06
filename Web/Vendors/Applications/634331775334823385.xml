@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>KARLHUDSON@RAREEARTHFARMS.COM</ContactEmail>
+  <ContactName>Karl Hudson</ContactName>
+  <ContactPhone>(919) 349-6080</ContactPhone>
+  <Description>
+    Rare Earth Farms raises all natural grass-fed, grass-finished beef and all natural lamb. We are animal welfare approved by the Animal Welfare Institute.
+  </Description>
+  <EmergencyContact />
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634331775333573409.pdf</LogoImagePath>
+  <MailingAddress>
+    <Address>2416 White Oak Rd</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27609</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Rare Earth Farms</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Karl Hudson, Mann Mullen</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>9724 Oakley Rd</Address>
+    <City>Zebulon</City>
+    <State>NC</State>
+    <ZipCode>27597</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Beef</string>
+    <string>Lamb</string>
+  </Products>
+  <ProductTypes>Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>250</AcresInProduction>
+    <AnimalBreeds>Angus and Angus-cross</AnimalBreeds>
+    <AnimalShelter>Freely accessible barn shelters</AnimalShelter>
+    <DiseasesAndParasites>Animals are wormed and do receive medical attention as needed but are culled from the herd if antibiotics are administered.</DiseasesAndParasites>
+    <FeedingPractices>All of our animals are pasture raised</FeedingPractices>
+    <HormonesAntiBiotics>
+      Our animals never receive any antibiotics, steroids or added hormones. If it is necessary to administer antibiotics to a sick animal, that animal is immediately culled from the herd.
+    </HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>Chaudrey's, Siler City</Processor>
+    <SoilTested>true</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>NC State Farmers Market</string>
+    <string>Clayton Farmers Market</string>
+    <string>Bella Mia Restaurant</string>
+    <string>Market Restaurant</string>
+    <string>NC Museum of Art</string>
+    <string>Iris Restaurant</string>
+    <string>Battistella's</string>
+    <string>Smith CSA</string>
+    <string>McGee's Crossroads</string>
+  </Venues>
+  <WebSiteUri>http://www.rareearthfarms.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

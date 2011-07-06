@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>honey from Vintage Bee</LocalIngredients>
+    <MaterialsUsed>vegetable and nut oils, clays, herbs, flowers, essential oils, phthalate free fragrances, honey, oatmeal</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>traceygurleystudios@yahoo.com</ContactEmail>
+  <ContactName>Tracey Gurley</ContactName>
+  <ContactPhone>(919) 848-8670</ContactPhone>
+  <Description>
+    I make natural soaps, bath, and body products in my home in North Raleigh.  My products are made from scratch by me, using my own carefully calculated recipes.  I never use any pre-made bases.  I use top quality vegetable and nut oils, herbs, clays, and flowers, and therapeutic grade essential oils.  In some instances, I will use phthalate-free fragrance oils.  The instances that I use these are when a scent cannot be obtained through nature with an essential oil, or it would be extremely cost-prohibitive, or would lead to deforestation.  My soaps are made by using the cold or hot process methods.  My product labels are designed and printed by me using my own artwork.
+
+    I will be the person working my booth at your farmer's market.  I feel that it is important that customers get to know the person making the items they purchase.  Also, if they have any questions, I will be able to answer them since I am the one making every product.
+
+    Thank you so much for your time and consideration for allowing me to become a vendor.  I had great success at your craft fair in November.  I look forward to hearing from you!
+  </Description>
+  <EmergencyContact>Michael Gurley (husband)</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634308542273567700.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>10321 Byrum Woods Dr</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27613</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <Name>Tracey Gurley Bath and Body</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Tracey Gurley</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Handmade Soaps</string>
+    <string>Body Butters</string>
+    <string>Body Balms</string>
+    <string>Salves</string>
+    <string>Bath Salts</string>
+    <string>Lip Balms</string>
+    <string>Body Scrubs</string>
+    <string>Room &amp; Linen Sprays</string>
+    <string>All-natural Bug Repellant</string>
+    <string>Aromatherapy Perfume Oils</string>
+    <string>Facial Masks</string>
+    <string>Facial Scrubs</string>
+    <string>Facial Serums</string>
+  </Products>
+  <ProductTypes>Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Lazy Daze</string>
+    <string>Handmade Market</string>
+    <string>Rock and Shop Market</string>
+    <string>Big Crafty</string>
+  </Venues>
+  <WebSiteUri>http://www.tgurleybathandbody.etsy.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>2</YearsSelling>
+</VendorApplication>

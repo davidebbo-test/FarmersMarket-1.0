@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>Other</BusinessStructure>
+  <ContactEmail>nsharman@wildblue.net</ContactEmail>
+  <ContactName>Luke Harman</ContactName>
+  <ContactPhone>(910) 639-0285</ContactPhone>
+  <Description />
+  <EmergencyContact>Ted Harman</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>1324 Belford Church Rd</Address>
+    <City>Jackson Springs</City>
+    <State>NC</State>
+    <ZipCode>27281</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Kalawi Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Jan Williams</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>30</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType />
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>sprays/pesticides</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress>
+    <Address>1515 Hwy 211</Address>
+    <City>Eagle Springs</City>
+    <State>NC</State>
+    <ZipCode>27242</ZipCode>
+  </ProductionAddress>
+  <Products>
+    <string>Peaches</string>
+    <string>Homemade Peach Ice Cream</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Roadside Stand</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>11</YearsSelling>
+</VendorApplication>

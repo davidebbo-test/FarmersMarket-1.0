@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>ranell@twobridgesfarm.net</ContactEmail>
+  <ContactName>Ranell Bridges</ContactName>
+  <ContactPhone>(919) 608-8414</ContactPhone>
+  <Description>We are a new small farm located in northern Franklin County. We currently raise Boer Meat Goats and Chickens. We currently sell the chicken eggs and plan to raise broiler chickens this year for meat. This will also be our first year to have Goat Meat to sell. This year we will also have a Market Garden and will be growing several market vegetables including: spring and fall vegetables like lettuces, spinach, kale, kohlrabi, broccoli, carrots and cabbage and summer vegetables including tomatoes, peppers, eggplant, onions, squash, melons, and corn. We will begin working on organic certification of our Market Garden in February and hope to obtain Organic Certification by mid summer. Because this is our first year, I expect the produce list will change over time. I do see a possibility for incorporating flowers and certain fruits/berries to our product list.</Description>
+  <EmergencyContact>Ranell Bridges</EmergencyContact>
+  <ExtensionAgent>Martha Mobley</ExtensionAgent>
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <LogoImagePath>C:\Inetpub\wwwroot\FarmersMarket\Images\Uploads\634313092410269591.jpg</LogoImagePath>
+  <MailingAddress>
+    <Address>17 Lloyds Way</Address>
+    <City>Louisburg</City>
+    <State>NC</State>
+    <ZipCode>27549</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-02T00:00:00</dateTime>
+    <dateTime>2011-04-09T00:00:00</dateTime>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-23T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+    <dateTime>2011-12-03T00:00:00</dateTime>
+    <dateTime>2011-12-10T00:00:00</dateTime>
+    <dateTime>2011-12-17T00:00:00</dateTime>
+    <dateTime>2011-12-24T00:00:00</dateTime>
+    <dateTime>2011-12-31T00:00:00</dateTime>
+    <dateTime>2012-01-07T00:00:00</dateTime>
+    <dateTime>2012-01-14T00:00:00</dateTime>
+    <dateTime>2012-01-21T00:00:00</dateTime>
+    <dateTime>2012-01-28T00:00:00</dateTime>
+    <dateTime>2012-02-04T00:00:00</dateTime>
+    <dateTime>2012-02-11T00:00:00</dateTime>
+    <dateTime>2012-02-18T00:00:00</dateTime>
+    <dateTime>2012-02-25T00:00:00</dateTime>
+    <dateTime>2012-03-03T00:00:00</dateTime>
+    <dateTime>2012-03-10T00:00:00</dateTime>
+    <dateTime>2012-03-17T00:00:00</dateTime>
+    <dateTime>2012-03-24T00:00:00</dateTime>
+    <dateTime>2012-03-31T00:00:00</dateTime>
+  </MarketDates>
+  <Name>Two Bridges Farm, LLC</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Ranell and Gary Bridges</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Manures, Compost, and other OMRI approved products</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>I plan to be certified organic and use organic means to control them.</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Goat Meat</string>
+    <string>Chicken</string>
+    <string>Eggs</string>
+    <string>Lettuce</string>
+    <string>Spinach</string>
+    <string>Kale</string>
+    <string>Kohlrabi</string>
+    <string>Broccoli</string>
+    <string>Carrots</string>
+    <string>Cabbage</string>
+    <string>Tomatoes</string>
+    <string>Peppers</string>
+    <string>Eggplant</string>
+    <string>Onions</string>
+    <string>Squash</string>
+    <string>Melons</string>
+    <string>Corn</string>
+  </Products>
+  <ProductTypes>Produce Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>10</AcresInProduction>
+    <AnimalBreeds>Boer Goats; Various breeds of laying hens for egg production, we have not decided which breed of chicken we will raise for meat production. Most likely a heritage breed.</AnimalBreeds>
+    <AnimalShelter>Their are various types of shelters on the farm including barns and 3 sided covered shelters. The goats always have access to at least one of these shelters. About half of our chickens take shelter in a barn at night. The remaining chickens take shelter in two mobile hoop house tractor type structures located in the pastures. Both the barn and hoop house tractors are equipped with roosts and laying bins.</AnimalShelter>
+    <DiseasesAndParasites>
+      With pasture rotation and management. I also feed Diatomasious Earth as a preventative during times where worm loads could easily increase.
+
+      We have had no problem with disease and would treat any disease on a case by case basis using the most effective, least invasive treatment possible.
+
+      We have had no problem with parasites in our chickens and very little problems with parasites in our goats. With the goats we have historically taken fecal samples of the herd to a vet for analysis. I will be visiting NC State in the next few weeks to learn how to read samples myself so I can test them more often. When the worm load has warranted, I treated the goats with Safeguard for Goats. The goats are treated individually based on need rather than as a herd. In the past year, we have treated a few of our herd on 2 different occasions.
+    </DiseasesAndParasites>
+    <FeedingPractices>I feed both the chickens and goats a non-medicated premium feed made by Purina. For the chickens this is free choice. We also occasionally feed them table scraps and vegetables from the garden. Both chickens and goats are pasture based. The chickens have access to the entire farm feeding on grasses, seeds, insects and worms (they are fenced out of the garden with electric fencing, the goats are rotated among 7 pastures and also feed free choice hay, usually coastal, and goat minerals.</FeedingPractices>
+    <HormonesAntiBiotics>We do not use hormones and would only use antibiotics if we had a situation that could not be resolved otherwise. </HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>I have not currently processed any goats but I believe Matkins (sp) is the only processor available for goats in our area. I currently plan to slaughter my own chickens.</Processor>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+  </Venues>
+  <WebSiteUri>http://twobridgesfarm.net/</WebSiteUri>
+  <YearsPracticing>1</YearsPracticing>
+  <YearsSelling>0</YearsSelling>
+</VendorApplication>

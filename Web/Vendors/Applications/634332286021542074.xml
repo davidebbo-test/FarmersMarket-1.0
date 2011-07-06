@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>spainfarm@yahoo.com</ContactEmail>
+  <ContactName>Linda Spain</ContactName>
+  <ContactPhone>(919) 622-4692</ContactPhone>
+  <Description>
+    The Spain Farm is a fourth generation small farm tucked away between the woods and urban growth in Raleigh, North Carolina. We are innovatively trying to take dominion over the land by using stewardship techniques to preserve the land for the next generation. Our philosophy is to work together with the animals and the food we grow; instead of trying to artificially stimulate them, we make them our partners in this business in a sense.
+    Our specialty is shiitake mushrooms. Grown in the woods on logs, our mushrooms are sheltered under the shade, using the most natural fertilizer available, fresh water. We are currently putting into place the paddock system to use with our animals which will allow each animal to participate in the polyculture we are creating by contributing their own kind of fertilizer and cleaning up after each other. This system creates rich areas that grow from natural fertilizers to provide top quality food for each animal. We try to limit the amount of grain as much as possible and allow the animals to graze on succulent grasses so that their meat will be rich with vitamins and enzymes. As grazers, the boar goats are the first to glean the area, next are the Muscovy, Cayuga and Khaki Campbell ducks which are top grazers and then there is the clean-up crew – the chickens. Two guardian livestock dogs, Maggie and Sampson, work in harmony to keep everyone safe.
+    Our offerings include shiitake mushrooms, figs, cabrito (goat meat), duck meat and eggs and chicken eggs.
+    We use no pesticides on our food or antibiotics on our animals. There is no need because the food we grow and the animals we raise help each other in a wonderful cycle, just as they were created. We try to do our best in everything we grow, to nurture our mushrooms, goats and other facets of our operation in order to uphold our end of the bargain, in short to be good stewards.
+  </Description>
+  <EmergencyContact>David Spain</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>6220 Standing Oak Ln</Address>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <ZipCode>27603</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-07T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+    <dateTime>2011-11-12T00:00:00</dateTime>
+    <dateTime>2011-11-19T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Spain Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>David, Linda and Patrick Spain</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>20</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>animal compost</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>naturally by rotatating the animals and using compost</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Shiitake mushrooms</string>
+    <string>Duck eggs and meat</string>
+    <string>Goat meat</string>
+  </Products>
+  <ProductTypes>Produce Protein</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>20</AcresInProduction>
+    <AnimalBreeds>Muscovy Ducks, Boer and Spainsh Goats</AnimalBreeds>
+    <AnimalShelter>barns</AnimalShelter>
+    <DiseasesAndParasites>in the case of the goats - regular checks for FAMACHA and fecal egg counts are taken. Sickness is looked at on a individual basis and dealt with in the most natural form possible. </DiseasesAndParasites>
+    <FeedingPractices>Grain and pasture</FeedingPractices>
+    <HormonesAntiBiotics>antibiotics are only used in case an animal is sick</HormonesAntiBiotics>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>true</PastureWaterShadAndShelter>
+    <Processor>Chaudry/Siler City</Processor>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues />
+  <WebSiteUri />
+  <YearsPracticing>4</YearsPracticing>
+  <YearsSelling>4</YearsSelling>
+</VendorApplication>

@@ -1,0 +1,15 @@
+D:\Jamie\Sources\Hosted\FarmersMarket\Main\Solutions\FarmersMarket-2010\ConstantContact\bin\Debug\ConstantContact.dll
+D:\Jamie\Sources\Hosted\FarmersMarket\Main\Solutions\FarmersMarket-2010\ConstantContact\bin\Debug\ConstantContact.pdb
+D:\Jamie\Sources\Hosted\FarmersMarket\Main\Solutions\FarmersMarket-2010\ConstantContact\obj\Debug\ResolveAssemblyReference.cache
+D:\Jamie\Sources\Hosted\FarmersMarket\Main\Solutions\FarmersMarket-2010\ConstantContact\obj\Debug\ConstantContact.dll
+D:\Jamie\Sources\Hosted\FarmersMarket\Main\Solutions\FarmersMarket-2010\ConstantContact\obj\Debug\ConstantContact.pdb
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket-2.0\ConstantContact\bin\Debug\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket-2.0\ConstantContact\bin\Debug\ConstantContact.pdb
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket-2.0\ConstantContact\obj\Debug\ResolveAssemblyReference.cache
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket-2.0\ConstantContact\obj\Debug\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket-2.0\ConstantContact\obj\Debug\ConstantContact.pdb
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\bin\Debug\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\bin\Debug\ConstantContact.pdb
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Debug\ResolveAssemblyReference.cache
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Debug\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Debug\ConstantContact.pdb

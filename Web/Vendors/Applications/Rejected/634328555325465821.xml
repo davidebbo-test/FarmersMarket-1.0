@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients>use our honey and beeswax. goats milk, source locally as much as we can</LocalIngredients>
+    <MaterialsUsed>our lavender, natural or organic base ingredients for the body products. 100% natural fabrics like cotton (some organic), linen, silk, and velvet</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>LimitedLiabilityCorporation</BusinessStructure>
+  <ContactEmail>annie@sunshinelavenderfarm.com</ContactEmail>
+  <ContactName>annie baggett</ContactName>
+  <ContactPhone>(919) 732-5533</ContactPhone>
+  <Description />
+  <EmergencyContact>Dale Baggett</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>4104 Millstone Rd</Address>
+    <City>Hurdle Mills</City>
+    <State>NC</State>
+    <ZipCode>27541</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-05-21T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-11-05T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Sunshine Lavender Farm</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Annie &amp; Dale Baggett</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>2</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>compost, lime, bone meal only.</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>Weed barrier, hand weeding. No chemicals, herbicides or pesticides.</PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Lavender Plants</string>
+    <string>Lavender Product for Body</string>
+    <string>Garden</string>
+    <string>Gifts</string>
+    <string>Bath Salts</string>
+    <string>Bed and Bath Powder</string>
+    <string>Bouquets</string>
+    <string>Candles</string>
+    <string>Culinary</string>
+    <string>Dryer Sachets</string>
+    <string>Essential Oil</string>
+    <string>Everyday Sachets</string>
+    <string>Eye Pillows</string>
+    <string>Grill and Fire Bundles</string>
+    <string>Hand and Body Cream</string>
+    <string>Laundry Booster</string>
+    <string>Linen and Air Mist</string>
+    <string>Lip Balm</string>
+    <string>Lotion Balm</string>
+    <string>Soap with Goats' Milk</string>
+  </Products>
+  <ProductTypes>Produce Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Duke Farmers Market</string>
+    <string>Hillsborough Farmers Market</string>
+    <string>Greensboro Farmers Market</string>
+    <string>Lazy Daze</string>
+    <string>Alamance County Service League Holly Days</string>
+  </Venues>
+  <WebSiteUri>http://www.sunshinelavenderfarm.com/</WebSiteUri>
+  <YearsPracticing>11</YearsPracticing>
+  <YearsSelling>10</YearsSelling>
+</VendorApplication>

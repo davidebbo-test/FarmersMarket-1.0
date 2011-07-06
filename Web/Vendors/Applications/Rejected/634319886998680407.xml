@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions>
+    <LocalIngredients />
+    <MaterialsUsed>Glass beads, wire/metal for whimsical items for home and garden</MaterialsUsed>
+  </BakeryQuestions>
+  <BusinessStructure>Other</BusinessStructure>
+  <ContactEmail>barnesmasonry@yahoo.com</ContactEmail>
+  <ContactName>Donnie Barnes</ContactName>
+  <ContactPhone>(919) 291-3685</ContactPhone>
+  <Description>We are a 110 acre family farm located in Southern Wake County. We grow a variety of produce, ornamental fall crops, and fall greens. Most of the farm is dedicated to row crops such as soybeans. </Description>
+  <EmergencyContact>Heather Robinson</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>6235 Wimberly Rd</Address>
+    <City>Willow Springs</City>
+    <State>NC</State>
+    <ZipCode>27592</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-06-04T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-18T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-08T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-22T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Barnes Farms</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Donnie Barnes Jr.</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>7</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>6-6-18 Veg.</FertilizerType>
+    <Greenhouse>true</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>We cultivate for weeds, and spray for pests only when necessary. </PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Irish Potatoes</string>
+    <string>Sweet Potatoes</string>
+    <string>Squash</string>
+    <string>Cucumbers</string>
+    <string>Zuchinni</string>
+    <string>Eggplant</string>
+    <string>Cantaloupe</string>
+    <string>Watermelon</string>
+    <string>Peppers</string>
+    <string>Snap Beans</string>
+    <string>Butter Beans</string>
+    <string>Peas</string>
+    <string>Tomatoes</string>
+    <string>Corn</string>
+    <string>Collards</string>
+    <string>Pumpkins</string>
+    <string>Mums</string>
+    <string>Okra</string>
+    <string>Herbs</string>
+  </Products>
+  <ProductTypes>Produce Bakery</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Local Produce Stands</string>
+    <string>Grocery Stores</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>10</YearsPracticing>
+  <YearsSelling>3</YearsSelling>
+</VendorApplication>

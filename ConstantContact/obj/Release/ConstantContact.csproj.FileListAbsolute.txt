@@ -1,0 +1,5 @@
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\bin\Release\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\bin\Release\ConstantContact.pdb
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Release\ResolveAssemblyReference.cache
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Release\ConstantContact.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\ConstantContact\obj\Release\ConstantContact.pdb

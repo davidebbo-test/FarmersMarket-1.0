@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <ContactEmail>dss@stockbridgegreen.com</ContactEmail>
+  <ContactName>David Smith</ContactName>
+  <ContactPhone>919 267-3975</ContactPhone>
+  <Description>David Smith operates a small family farm, committed to chemical-free farming and hopes one day to be certified organic. He currently uses sustainable techniques and all seed is certified organic. His family is at the beginning of the process of converting the property using permaculture concepts as a guide. In a related effort, Mr Smith also pursues sustainable building design  through his company, Stockbridge Green Architects. </Description>
+  <EmergencyContact>Karen Vollrath</EmergencyContact>
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>1530 Salem Church Rd</Address>
+    <City>Apex</City>
+    <State>NC</State>
+    <ZipCode>27523</ZipCode>
+  </MailingAddress>
+  <MarketDates>
+    <dateTime>2011-04-16T00:00:00</dateTime>
+    <dateTime>2011-04-30T00:00:00</dateTime>
+    <dateTime>2011-05-14T00:00:00</dateTime>
+    <dateTime>2011-05-28T00:00:00</dateTime>
+    <dateTime>2011-06-11T00:00:00</dateTime>
+    <dateTime>2011-06-25T00:00:00</dateTime>
+    <dateTime>2011-07-02T00:00:00</dateTime>
+    <dateTime>2011-07-09T00:00:00</dateTime>
+    <dateTime>2011-07-16T00:00:00</dateTime>
+    <dateTime>2011-07-23T00:00:00</dateTime>
+    <dateTime>2011-07-30T00:00:00</dateTime>
+    <dateTime>2011-08-06T00:00:00</dateTime>
+    <dateTime>2011-08-13T00:00:00</dateTime>
+    <dateTime>2011-08-20T00:00:00</dateTime>
+    <dateTime>2011-08-27T00:00:00</dateTime>
+    <dateTime>2011-09-03T00:00:00</dateTime>
+    <dateTime>2011-09-10T00:00:00</dateTime>
+    <dateTime>2011-09-17T00:00:00</dateTime>
+    <dateTime>2011-09-24T00:00:00</dateTime>
+    <dateTime>2011-10-01T00:00:00</dateTime>
+    <dateTime>2011-10-15T00:00:00</dateTime>
+    <dateTime>2011-10-29T00:00:00</dateTime>
+  </MarketDates>
+  <MarketDays>Saturday</MarketDays>
+  <Name>Hidden Springs</Name>
+  <NumberOfSpaces>1</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>David Smith</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>1</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <FertilizerType>Espoma products, Blood, Bonemeal, general fetilizer product</FertilizerType>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>true</OwnLand>
+    <PestControl>
+      Weeds - Removal by hand, black poly covering beds.
+      Pests - Not a lot of trouble yet, Killed some ants using borax, removed catapillers by hand.
+    </PestControl>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Garden Vegetables</string>
+    <string>Eggs</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>On Premise</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>2</YearsPracticing>
+  <YearsSelling>1</YearsSelling>
+</VendorApplication>

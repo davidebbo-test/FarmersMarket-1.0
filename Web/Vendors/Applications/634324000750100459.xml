@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VendorApplication xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BakeryQuestions />
+  <BusinessStructure>SoleProprietorship</BusinessStructure>
+  <Description />
+  <EmergencyContact />
+  <ExtensionAgent />
+  <IncludeListingOnWebSite>true</IncludeListingOnWebSite>
+  <MailingAddress>
+    <Address>1796 Pittsboro Goldston Rd </Address>
+    <City>Pittsboro</City>
+    <State>NC</State>
+    <ZipCode>27312</ZipCode>
+  </MailingAddress>
+  <MarketDates />
+  <MarketDays>None</MarketDays>
+  <Name>Gertrude's Garden Gems</Name>
+  <NumberOfSpaces>0</NumberOfSpaces>
+  <OrganicProducts />
+  <Owner>Gertrude and Harold Jones</Owner>
+  <ProduceQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <CsaDropOff>false</CsaDropOff>
+    <Greenhouse>false</Greenhouse>
+    <OfferCsa>false</OfferCsa>
+    <OwnLand>false</OwnLand>
+  </ProduceQuestions>
+  <ProductionAddress />
+  <Products>
+    <string>Cut Flowers</string>
+    <string>Bedding Plants</string>
+    <string>Vegetable Plants</string>
+    <string>Herbs</string>
+    <string>Asparagus</string>
+    <string>Seasonal Vegetables</string>
+  </Products>
+  <ProductTypes>Produce</ProductTypes>
+  <ProteinQuestions>
+    <AcresInProduction>0</AcresInProduction>
+    <OwnLand>false</OwnLand>
+    <PastureWaterShadAndShelter>false</PastureWaterShadAndShelter>
+    <SoilTested>false</SoilTested>
+  </ProteinQuestions>
+  <SeafoodQuestions />
+  <Venues>
+    <string>Southern Pines Farmers Market</string>
+  </Venues>
+  <WebSiteUri />
+  <YearsPracticing>8</YearsPracticing>
+  <YearsSelling>8</YearsSelling>
+</VendorApplication>
