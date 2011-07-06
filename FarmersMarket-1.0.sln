@@ -15,24 +15,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", 
 		References\Recaptcha.pdb = References\Recaptcha.pdb
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{8EDB5335-265E-4677-A38E-C185F9E88417}"
+	ProjectSection(SolutionItems) = preProject
+		Tools\NuGet.exe = Tools\NuGet.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
 		SccNumberOfProjects = 5
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = http://tfs.jflamb.com:8080/tfs/projects
-		SccProjectUniqueName0 = ConstantContact\\ConstantContact.csproj
-		SccProjectName0 = ConstantContact
-		SccLocalPath0 = ConstantContact
-		SccProjectUniqueName1 = Helpers\\Helpers.csproj
-		SccProjectName1 = Helpers
-		SccLocalPath1 = Helpers
-		SccProjectUniqueName2 = Web.Tests\\Web.Tests.csproj
-		SccProjectName2 = Web.Tests
-		SccLocalPath2 = Web.Tests
-		SccProjectUniqueName3 = Web\\Web.csproj
-		SccProjectName3 = Web
-		SccLocalPath3 = Web
-		SccLocalPath4 = .
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConstantContact\\ConstantContact.csproj
+		SccProjectName1 = ConstantContact
+		SccLocalPath1 = ConstantContact
+		SccProjectUniqueName2 = Helpers\\Helpers.csproj
+		SccProjectName2 = Helpers
+		SccLocalPath2 = Helpers
+		SccProjectUniqueName3 = Web.Tests\\Web.Tests.csproj
+		SccProjectName3 = Web.Tests
+		SccLocalPath3 = Web.Tests
+		SccProjectUniqueName4 = Web\\Web.csproj
+		SccProjectName4 = Web
+		SccLocalPath4 = Web
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = FarmersMarket1.vsmdi

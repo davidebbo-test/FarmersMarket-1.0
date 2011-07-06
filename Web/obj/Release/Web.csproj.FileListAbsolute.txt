@@ -24,3 +24,4 @@ D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Web\obj\Release\Resolve
 D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Web\obj\Release\Web.dll
 D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Web\obj\Release\Web.pdb
 D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Web\obj\Release\Web.XmlSerializers.dll
+D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Web\bin\Microsoft.Web.Helpers.dll
