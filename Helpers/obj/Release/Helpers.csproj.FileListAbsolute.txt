@@ -1,6 +1,0 @@
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\bin\Release\Helpers.dll
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\bin\Release\Helpers.pdb
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\bin\Release\Google.GData.Client.dll
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\obj\Release\ResolveAssemblyReference.cache
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\obj\Release\Helpers.dll
-D:\Jamie\Projects\Agile\Main\Solutions\FarmersMarket\1.0\Helpers\obj\Release\Helpers.pdb
